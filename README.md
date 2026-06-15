@@ -29,7 +29,7 @@
 ## 🧠 About Me
 
 ```python
-class AndrewMbewe:
+class AndrewLucioMbewe:
     location     = "Lusaka, Zambia 🇿🇲"
     role         = "Mid-Senior Software Engineer @ Penda Digital"
     co_founder   = "Goliath Financials — Stock Market Platform (LuSE)"
@@ -77,9 +77,6 @@ Zambia faces a critical shortage of radiologists and limited mammography infrast
 - 🧬 Detects **3 lesion classes**: masses, calcifications, and architectural distortions
 - 📚 Trained using a **progressive curriculum learning** strategy with expert-validated labels and model-assisted annotation review
 - 🌍 **First reported YOLOv11-based CAD system** trained and validated entirely on locally collected Zambian mammographic data
-- ⚡ Near-real-time diagnostic support — meeting the **70% clinical threshold** in a low-resource setting
-
-> *Laying the foundation for multi-centre validation and prospective clinical evaluation across African healthcare systems.*
 
 ---
 
@@ -193,14 +190,6 @@ Zambia faces a critical shortage of radiologists and limited mammography infrast
 | 🏅 Certification | 🏢 Issuer |
 |---|---|
 | Cisco Certified Network Associate (CCNA Level 1) | Cisco |
-
----
-
-## 🌍 Building for Africa
-
-> *"The next wave of innovation won't just copy Silicon Valley — it'll be built from Lusaka, Lagos, Nairobi, and beyond."*
-
-I'm passionate about building **fintech infrastructure**, **SaaS platforms**, **medical AI tools**, and **digital products** that serve African communities — starting right here in Zambia.
 
 ---
 
